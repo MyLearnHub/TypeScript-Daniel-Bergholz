@@ -1,0 +1,11 @@
+{
+  "name": "TypeScript-Daniel-Bergholz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MyLearnHub/TypeScript-Daniel-Bergholz.git",
+  "author": "Paulo-Alvares <paulo.alvares@sptech.school>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
